@@ -1,0 +1,6 @@
+entsoe-py
+os
+drive
+pandas
+numpy
+matplotlib
